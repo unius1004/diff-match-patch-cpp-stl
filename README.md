@@ -8,6 +8,7 @@ The STL Port is header only and works with std::wstring and std::string.
 
 Compile and run the test cases:
 
+
     g++ diff_match_patch_test.cpp -o diff_match_patch_test && ./diff_match_patch_test
 
 Or use CMake ...
