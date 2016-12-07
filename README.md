@@ -1,11 +1,7 @@
 diff-match-patch-cpp-stl
 ========================
+[![Build Status](https://travis-ci.org/dicass/diff-match-patch-cpp-stl.png)](https://travis-ci.org/dicass/diff-match-patch-cpp-stl)
 
-[![Build Status](https://travis-ci.org/unius1004/diff-match-patch-cpp-stl.png)](https://travis-ci.org/unius1004/diff-match-patch-cpp-stl)
-
-C++ STL variant of https://code.google.com/p/google-diff-match-patch.
-
-STL Port was done by Sergey Nozhenko (snhere@gmail.com) and posted on
 https://code.google.com/p/google-diff-match-patch/issues/detail?id=25
 
 The STL Port is header only and works with std::wstring and std::string.
